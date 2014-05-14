@@ -1,0 +1,1 @@
+A new and better editor for Warcraft 3.
