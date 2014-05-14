@@ -1,4 +1,5 @@
 *.exe
+*.cbp
 *.layout
 *.depend
 Debug/*.*
